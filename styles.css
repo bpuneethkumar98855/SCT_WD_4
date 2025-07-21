@@ -70,7 +70,7 @@ ul li{
     font-size: 18px;
     color: rgb(250, 249, 249);
     font-family:Arial, Helvetica, sans-serif ;
-    padding: 12px 88px 12px  ;
+    padding: 18px 92px 12px  ;
     user-select: none;
     position: relative;
 }
@@ -83,8 +83,8 @@ ul li::before{
     background-image: url(unchecked.png);
     background-size: cover;
     background-position:center ;
-    top: 10px;
-    left: 43px;
+    top: 15px;
+    left: 58px;
 }
 ul li.checked{
     color: #555;
@@ -138,7 +138,7 @@ ul li span:hover{
 
   ul li {
     font-size: 16px;
-    padding: 12px 70px 12px ;
+    padding: 17px 70px 12px ;
   }
 
   ul li::before {
